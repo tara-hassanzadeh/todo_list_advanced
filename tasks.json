@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Review Python project ",
+        "priority": "high",
+        "due_date": "2025-07-20",
+        "done": true
+    },
+    {
+        "task": "Task description: Complete resume for LinkedIn  ",
+        "priority": "high",
+        "due_date": "2025-07-15",
+        "done": false
+    }
+]
